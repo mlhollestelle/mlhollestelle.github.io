@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martijn Hollestelle - Data Scientist, Mobility and cities</title>
+    <link>https://mlhollestelle.github.io/</link>
+    <description>Recent content on Martijn Hollestelle - Data Scientist, Mobility and cities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2019 17:53:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://mlhollestelle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Driving</title>
+      <link>https://mlhollestelle.github.io/posts/automated-driving/</link>
+      <pubDate>Fri, 29 Nov 2019 17:53:18 +0200</pubDate>
+      
+      <guid>https://mlhollestelle.github.io/posts/automated-driving/</guid>
+      <description>Here I will write a post about my thesis research. The report can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mlhollestelle.github.io/publications/</link>
+      <pubDate>Tue, 19 Nov 2019 17:21:33 +0200</pubDate>
+      
+      <guid>https://mlhollestelle.github.io/publications/</guid>
+      <description>Lipsum</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mlhollestelle.github.io/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://mlhollestelle.github.io/about/</guid>
+      <description>I am a Data Scientist 👨‍🔬 based in Helsinki, Finland. Some people call me a designer 🎨, other people call me a nerd 👨‍💻. I do not consider myself any of those and the truth lies somewhere in the middle.
+I am fascinated by the dynamics in cities and I see it my mission to contribute to liveable cities by understanding the processes within cities through data science methods.</description>
+    </item>
+    
+  </channel>
+</rss>

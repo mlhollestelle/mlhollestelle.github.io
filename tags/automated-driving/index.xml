@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automated driving on Martijn Hollestelle - Data Scientist, Mobility and cities</title>
+    <link>https://mlhollestelle.github.io/tags/automated-driving/</link>
+    <description>Recent content in automated driving on Martijn Hollestelle - Data Scientist, Mobility and cities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2019 17:53:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://mlhollestelle.github.io/tags/automated-driving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Driving</title>
+      <link>https://mlhollestelle.github.io/posts/automated-driving/</link>
+      <pubDate>Fri, 29 Nov 2019 17:53:18 +0200</pubDate>
+      
+      <guid>https://mlhollestelle.github.io/posts/automated-driving/</guid>
+      <description>Here I will write a post about my thesis research. The report can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>
