@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Martijn Hollestelle - Data Scientist, Mobility and cities</title>
+    <title>Martijn Hollestelle - Data Scientist, Mobility and Cities</title>
     <link>https://mlhollestelle.github.io/</link>
-    <description>Recent content on Martijn Hollestelle - Data Scientist, Mobility and cities</description>
+    <description>Recent content on Martijn Hollestelle - Data Scientist, Mobility and Cities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2019 17:53:18 +0200</lastBuildDate>
@@ -35,8 +35,9 @@
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>https://mlhollestelle.github.io/about/</guid>
-      <description>I am a Data Scientist 👨‍🔬 based in Helsinki, Finland. Some people call me a designer 🎨, other people call me a nerd 👨‍💻. I do consider myself a little bit both of those, and the truth lies probably somewhere in the middle.
-I am fascinated by the dynamics in cities and I see it my mission to contribute to liveable cities by understanding the processes within cities through data science methods.</description>
+      <description>I am a Data Scientist 👨‍🔬 born and trained in the Netherlands and based in Helsinki, Finland. Currently I am working in Ramboll&amp;rsquo;s Digital Mobility Lab, where I develop and apply new digital methods for mobility analytics.
+By training I am both a Civil Engineer specialised in transportation science and an Urban Planner trained in the spatial impacts of mobility.
+I am fascinated by the dynamics in cities and I consider it my mission to contribute to liveable cities through data science methods.</description>
     </item>
     
   </channel>
